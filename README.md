@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MKJ07](https://github.com/MKJ07)
 
-- 💬 Ask me about **Java,OOPS,WEB Technologies**
+- 💬 Ask me about **Java,OOPS and other WEB Technologies**
 
 - 📫 How to reach me **mahesh8479j@gmail.com**
 
