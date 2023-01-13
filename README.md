@@ -36,6 +36,6 @@
 
 <h2>GitHub Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkj07&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical" alt="mkj07" />
-<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkj07&show_icons=true&locale=en&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="mkj07" />
+<img align="center" width="300px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mkj07&show_icons=true&locale=en&layout=compact&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="mkj07" />
  </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkj07&show_icons=true&theme=transparent"></p>
+<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mkj07&show_icons=true&theme=transparent"></p>
