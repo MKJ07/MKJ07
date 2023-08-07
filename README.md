@@ -17,6 +17,7 @@
 
 
 - 🌱 I’m currently learning **DSA and Other Web Technologies..**
+- 👨‍💼AIA Database Tech Intern at Cognizant.
 - 👨‍💻 All of my projects are available on [Github](https://github.com/MKJ07).
 - 💬 Ask me about **Java, OOPS, and other WEB Technologies**
 - 📫 How to reach me: [Contact](mahesh8479j@gmail.com)
