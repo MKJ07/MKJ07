@@ -59,7 +59,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkj07&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical" alt="Streaks Stats">
+</p>
+<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mkj07&show_icons=true&theme=transparent" alt="GitHub Stats">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkj07&layout=compact&bg_color=00000000" alt="Top Languages">
 </p>
 
