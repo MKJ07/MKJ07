@@ -23,11 +23,11 @@
 - 📫 How to reach me: [Contact](mahesh8479j@gmail.com)
 
 ## Connect with me:
+<a href="https://twitter.com/mkj_07"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mahesh-kumar-jaiswal-1501581b6/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/maheshkumarjaiswal"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670032.png" alt="Facebook" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/its_mkj07"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;
 
-[<img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" width="40" />](https://twitter.com/mkj_07)
-[<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/mahesh-kumar-jaiswal-1501581b6/)
-[<img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="30" width="40" />](https://fb.com/maheshkumarjaiswal)
-[<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40" />](https://instagram.com/its_mkj07)
 
 ## Coding Profiles
 
