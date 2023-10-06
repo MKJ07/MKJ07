@@ -3,9 +3,6 @@
   <p>A Passionate Programmer and Web Enthusiast from India</p>
 </div>
 
-
-
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" alt="code" height="300" width="500">
 </p>
