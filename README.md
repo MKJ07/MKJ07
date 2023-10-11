@@ -4,22 +4,21 @@
 </div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" alt="code" height="300" width="500">
+  <img src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" alt="Code" height="300" width="500">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?
-    username=mkj07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=mkj07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
+## About Me
 
-
-- 🌱 I’m currently learning **DSA and Other Web Technologies..**
-- 👨‍💼AIA Database Tech Intern at Cognizant.
+- 🌱 I’m currently learning **Data Structures and Algorithms (DSA) and other web technologies.**
+- 👨‍💼 AIA Database Tech Intern at Cognizant.
 - 👨‍💼 Programmer Analyst Trainee at Cognizant.
-- 👨‍💻 All of my projects are available on [Github](https://github.com/MKJ07).
-- 💬 Ask me about **Java, OOPS, and other WEB Technologies**
-- 📫 How to reach me: [Contact](mahesh8479j@gmail.com)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/MKJ07).
+- 💬 Ask me about **Java, Object-Oriented Programming (OOPS), and other web technologies.**
+- 📫 How to reach me: [Email](mailto:mahesh8479j@gmail.com)
 
 ## Connect with me:
 <a href="https://twitter.com/mkj_07"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" width="40" /></a>&nbsp;&nbsp;
