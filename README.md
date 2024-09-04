@@ -39,8 +39,6 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/"><img src="https://cdn.vox-cdn.com/thumbor/HFwS18BH4dG7dl5kD37qHK2nemg=/0x2:580x389/1400x1050/filters:focal(0x2:580x389):format(jpeg)/cdn.vox-cdn.com/assets/979932/html5.jpeg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org"><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-3628954-3030179.png" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://pugjs.org"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.python.org"><img src="https://cdn.iconscout.com/icon/free/png-256/python-3629591-3032289.png" alt="Python" width="40" height="40"/></a>
 </p>
