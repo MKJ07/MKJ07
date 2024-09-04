@@ -23,10 +23,9 @@
 ## Coding Profiles
 
 <p>
+  <a href="https://leetcode.com/mkj07/"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="LeetCode" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mkj07"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/mkj07"><img align="center" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_060528149c093ad5a64d6d8428c514c5/hackerrank-developer-skills-platform.png" alt="HackerRank" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/mkj07"><img align="center" src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/mkj07/"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="LeetCode" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/mkj07/"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
