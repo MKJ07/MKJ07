@@ -14,10 +14,9 @@
 ## About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) and other web technologies.**
-- 👨‍💼 AIA Database Tech Intern at Cognizant.
-- 👨‍💼 Programmer Analyst Trainee at Cognizant.
+- 👨‍💼 Data Engineer at Cognizant.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/MKJ07).
-- 💬 Ask me about **Java, Object-Oriented Programming (OOPS), and other web technologies.**
+- 💬 Ask me about **Data Engineering, Object-Oriented Programming (OOPS), and other web technologies.**
 - 📫 How to reach me: [Email](mailto:mahesh8479j@gmail.com)
 
 ## Connect with me:
