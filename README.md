@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Mahesh Kumar Jaiswal</h1>
-  <p>A Passionate Programmer and Web Enthusiast from India</p>
+  <p>A Passionate Programmer and Data Engineer from India</p>
 </div>
 
 <p align="center">
